@@ -1,0 +1,180 @@
+**__Introduction__**
+Nex is the Zarosian general in the God Wars dungeon.
+
+When Nex spawns for the first time in a custom instance it will be praying Deflect Magic for part of the kill, this is why Range only kills are the meta for fast consistent kills. After every kill you will teleport out of the instance and re-enter in order to force Nex to always be praying Deflect Mage 
+
+Note: It is advised to complete the Ritual of the Mahjarrat quest in order to get access to the Jas boost which gives a 5% damage boost in GWD1 (including Nex). This can be done via Fairy ring code D.K.Q.
+​
+**__Presets__**
+Banking Preset
+⬥ The most important thing is to have a Frozen key + Ancient Ceremonial set for use with your boss portal.
+    • You can speak to Ashuelot Reis in the Nex bank and pay a one time cost of the Frozen key + Ancient Ceremonial along with 10M GP to be able to access Nex bank without these items.
+⬥ An Enhanced Luck Potion  works and can be used here.
+⬥ A T70+ Defender is required for Ancient Emblem  drops
+    • This is used to make the T80 Defenders ( /  / )
+​
+**__Preset__**
+⬥ Vulnerability bombs <:vulnbomb:655341074235129858> will be used throughout the kill. Try to use these as needed (use on every phase if you'd like)
+⬥ Blackstone arrows will be used, without them your accuracy will be much lower and will make kills a good amount slower.
+⬥ Deathspore arrows are a cheap arrow to switch to (if you're not into switching then don't worry), useful mainly for their 3% additional crit chance and for their adrenaline saving aspect if you own an essence of finality amulet.
+⬥ A Powerburst of vitality potion is used for its ability to help you survive Nex's ice prison attack on the ice phase. You can even use this whilst you're stunned during the prison!
+⬥ The Aura "Reckless" <:reckless:643505179378974748> is almost a must at Nex, it will greatly increase your damage and hit chance (but at the cost of increasing damage taken)
+⬥ Bandos helmet and dragon gauntlets are used to prevent Nex from running to you during the smoke and shadow phases. If you have higher level ranged gear then you will need to upgrade these accordingly.
+⬥ A book of law <:armabook:513190159051915264> is used here for it's multiple hitting ability, massively speeding up phases and minions.
+PRESET goes here ---------------------------------------
+
+**__Stopping Nex from attempting to melee you during the smoke and shadow phases__**
+Matching or having a higher Ranged defence compared to your magic defence as shown below (found on the "Hero" tab in the subsection "loadout") will prevent Nex from attempting to melee you during the two phases.
+https://gyazo.com/e09f3e60f910b5982d147631e0ab3788 (make this a pretty picture please)
+
+**__Recommended Perks and relics__**
+<:p6:712073088769982475> Precise 6 and <:eq4:712073088589627505> Equillibrium 4 are highly recommended for your weapon of choice. The combinations for these can be found in #perks
+<:b3:689502516874051590> Biting 2 or above is a cheap and effective perk alongside <:crack4:712073087662686249> Crackling 4. If you have two pieces of augmented armour then <:impatient:848803118706720798> and <:enhdev4:712073087507628035> would be great.
+
+Any combination of: Blessing of het (emoji) Berserker's fury <:berserkersfury:697808774106185768> Fury of the small <:furyofthesmall:697808773917573233> Death's ward <:deathward:697808774068699286> 
+If you are unable to afford to switch too regularly then no relics will do just fine.
+
+**__Recommended gear/loadout upgrades (optional)__**
+Upgrading to a higher levelled bow (Noxious or a Decimation) or Ascension Crossbows.
+Nightmare Gauntlets or Swift gloves will help massively (you'll be able to move freely whilst using Snipe <:snipe:535541258425204770> with the Nightmare Gauntlets)
+Using an adrenaline potion <:replen:634350514406162436> if you're struggling with adrenaline or after you use an ultimate ability could help.
+An Essence of finality amulet <:eofgreen:780401412727242773> with a Dark bow stored inside will help greatly. Other useful amulets include a Reaper Necklace or an Amulet of souls.
+An Igneous Kal-Xil <:igneouskalxil:902209626404171786> from #tzkal-zuk helps tremendously if you're capable of obtaining one. The ability of the cape could be used effectively on Shadow, Ice and Zaros phases.
+The Mazcab ability codex abilities Corruption shot <:corruptshot:535541306294796299> and Onslaught <:onsl:513190159085207555> can be very good additions to your arsenal. Corruption shot is mainly for use on the 4 mages, and Onslaught can be a preferred method to deal with blood phase.
+
+> **__Mechanics__**
+.tag:mechanics
+**__Nex overview__**
+⬥ Nex is a 1x1 NPC and has very strict softcaps, which means that any damage over a certain amount is reduced by X% depending on the phase.
+    • During the first four phases, Nex has a soft cap that reduces excess damage above **5,000 by 50%**.
+        - For example, a 6,000 damage hit would be reduced to 5,500 damage.
+    • On the Zaros phase, the soft cap is changed to reduce excess damage above **2,000 by 75%**.
+        - This means a 6,000-damage hit would be reduced to 3,000.
+
+**__Mages overview__**
+⬥ Mages have a soft cap that reduces excess damage above 1,000 by a random amount between approximately 80% and 100%.
+⬥ Each mage is combat level 111 with 10,000 health, possesses a max hit of around 850, and are weak to bolts. The mages are static and can only be attacked whenever Nex calls their name.
+⬥ An unusual trait they all share is that they are immune to magic attacks.
+
+Nex has 5 phases; Smoke, Shadow, Blood, Ice, and Zaros. Each phase has 2 special attacks, with the exception of Zaros
+
+.
+__**Smoke Phase**__
+Virus → 5 auto-attacks → No escape → Five auto-attacks → Repeat
+⬥ Don't stand in middle crossways
+.
+.img:https://imgur.com/BgsPoty.mp4
+.
+⬥ Nex may drag you to MD of her at random times, nulling all damage sent to her during this timeframe.
+.
+.img:https://imgur.com/0tauAFe.mp4
+.
+__**Shadow Phase**__
+Shadow traps (only if the phased before the virus attack) → Darkness → Shadow traps → 4 auto-attacks → Repeats from the second set of shadow traps
+⬥ Move from Shadows and don’t stand MD.
+
+*A shadow trap is avoided*
+.
+.img:https://imgur.com/FZJq76Y.mp4
+.
+*A player escapes the shadows engulfing them*
+.
+.img:https://imgur.com/4cZwRUJ.mp4
+.
+__**Blood Phase**__
+Siphon summon → 3 auto-attacks → Blood sacrifice → 3 auto-attacks → Repeat
+⬥ Attacks during Siphon will heal Nex and sacrifice will heal Nex if not phased and in range.
+
+*Nex summoning her Blood Reavers*
+.
+.img:https://imgur.com/480GewR.mp4
+.
+*Nex sacrifices a player*
+.
+.img:https://imgur.com/qnjrQdC.mp4
+.
+⬥ Any bleeds used during this phase will heal Nex rather than damage her ( <:frag:535541273755385885> <:corruptshot:535541306294796299> <:deadshot:535541307666595870> )
+⬥ Cruor's attacks always have 100% accuracy and will heal him for 100 damage regardless of the damage he deals.
+
+__**Ice Phase**__
+First special attack (based on phase start) → 3 auto-attacks → Second special attack (based on phase start) → 3 auto-attacks → Repeat
+⬥ If Blood phase ended with Sacrifice, Ice will start with Contain
+.
+.img:https://imgur.com/zFmdn67.mp4
+.
+⬥ If Blood phase ended with Siphon, Ice will start with Prison
+.
+.img:https://imgur.com/YGkCP6F.mp4
+.
+⬥ Run from Contain and Freedom <:freedom:535541258240786434> into eating up then <:vitality:654618235097972737>.
+⬥ Glacies' attacks can freeze players if they aren't using Protect/Deflect Magic; keeping the prayer active will result in all of her attacks missing regardless of the player's armour rating.
+
+.
+__**Zaros Phase**__
+⬥ Upon the start of this phase, Nex activates Turmoil <:turmoil:583429936606347280>and heals herself for 33,333 (1/6) of her health to boost it up to 73,333.
+.
+.img:https://imgur.com/lPTF0V0.mp4
+.
+⬥ Nex does not have any unique special attacks in this phase and uses only her melee and magic autoattacks
+
+*Further details on the mechanics can be found here:* <https://runescape.wiki/w/Nex/Strategies#The_phases>
+
+__**Notes before the fight**__
+.
+⬥ Try and anticipate as close to 10 seconds on the kill timer.
+⬥ The easiest way to kite nex (only whilst she is attempting to melee you) is to move as a horse/knight does in chess (or in the shape of an L), then continuing. If you are having trouble with this then another legitimate method is to flail your mouse and continuously click (this will be less effective but can stall her a good amount)
+
+__**Smoke phase notes**__
+.
+Starting off throw a vulnerability bomb at nex either just before Nex is attackable (12.0s on the boss kill timer) or during the early stages of the smoke phase.
+Try and start off with a Shadow Tendrils <:shadowtend:642713547142332416>, followed by a Fragmentation shot <:frag:535541273755385885> (try to move far away from nex after using in order to double the damage of this ability), Then a Rapid fire <:rapid:535541270521708566> and finally a Snapshot <:snap:535534127131394088>.
+She should be close to phase hp here (160,000).
+
+Once she reaches phase hp it's time for Fumus. Try to use bleeds (Fragmentation or Corruption shot (if you own it)). The only essential thing to do here is to save Rapid Fire <:rapid:535541270521708566> for Shadow phase. Using Anticipate <:anti:535541306475151390> will be nice here to disallow Nex to stun you whilst you're killing Fumus.
+
+__**Shadow phase notes**__
+.
+Be sure to switch to protect range.
+Here start off by using your saved Rapid fire <:rapid:535541270521708566> followed by your most powerful abilities (try and save Shadow Tendrils for blood if you can). The only things you need to look out for during this phase are her Shadow bombs she'll implant into the ground beneath you and standing next to her for too long.
+
+Once she phases (120,000 LP), it's time for Umbra. Try to kill him in the exact same way as you killed Fumus previously (including the saving of Rapid Fire).
+
+__**Blood phase notes**__
+.
+Be sure to switch back to protect magic.
+Start off here by throwing another Vulnerability bomb. Be sure to switch to your range helmet and gloves if you're using the melee armour strategy.
+Try to channel a Snipe <:snipe:535541258425204770> as her wings reach their highest point or after. Then try to use Rapid Fire <:rapid:535541270521708566>, Snapshot <:snap:535534127131394088> and Shadow Tendrils <:shadowtend:642713547142332416>.
+Any bleeds you use during this phase (Fragmentation shot <:frag:535541273755385885>, Corruption shot <:corruptshot:535541306294796299>, Deadshot <:deadshot:535541307666595870>) will heal Nex instead of damaging her so avoid using any of those.
+If nex calls a sacrifice on you (This will turn you red) you need to be at least 7 squares away from Nex or she will heal herself for around 10,000 lp. This can be easily countered by using Surge <:surge:535533810004262912>.
+
+Once Nex reaches her phase (80,000 lp), your next target is Crour. Dispatch of him the same way you did Fumus and Umbra with one potential difference. Using Devotion and allowing yourself to do an auto attack is a good way to mitigate a good chunk of damage without sacrificing much/any damage you deal.
+
+__**Ice phase notes**__
+.
+Try to get off an early Fragmentation shot <:frag:535541273755385885>, followed by Rapid fire, Snapshot and good basics/lower damaging thresholds.
+For this phase there're two specials that you need to avoid/handle. 
+Contain will create a 5x5 ice area around nex which if it hits you will stun you, turn your protection prayers off and deal up to 3500 damage. You can avoid this by staying far away from nex as much as you're able to.
+The second special is an ice prison that nex will throw at you that you're unable to free yourself from (after around 5s it's effects will happen and you'll be free after). This can deal up to 8000 lp, will stun you, turn off any protection prayers and will disallow movement.
+The best way to counter the prison is to Anticipate <:anti:535541306475151390> then either drink a powerburst of vitality <:vitality:654618235097972737> or Resonance <:res:535541258844635148> with a shield equpped (this will only stop a potential Nex auto attack from hurting you, not the prison damage itself). Barricade can also be used if you're running low on food or have excess adrenaline you don't mind using. Freedom <:freedom:535541258240786434> can also be used in order to counteract the stun.
+
+Once nex reaches her phasing lp (40,000), it's time for the final minion, Glacies.
+Use whatever you can to kill him as quickly as possible. Rapid fire <:rapid:535541270521708566> and Bleeds are an excellent way to deal lots of damage to him quickly to avoid any further prisons from Nex.
+
+__**Ice phase notes**__
+.
+This phase has 0 mechanics, but her magic attack has doubled in power, so be sure to use protect magic for this phase. She will also sometimes switch to Soul split and heal over 2000 per successful attack.
+She will also heal just over 33,000 lp bringing her to around 73,000.
+For this phase try to use Rapid fire <:rapid:535541270521708566> Asap. Follow with good basics then a Deadshot <:deadshot:535541307666595870>, then continue using basics until you're able to Rapid fire <:rapid:535541270521708566> again. She has a punishing it cap of 2000 with any damage over being reduced by 75%, so be sure to use low damaging multiple hitting abilities such as bleeds as frequently as you can.
+If you brought an adrenaline potion using it after your Deadshot is an excellent idea to allow yourself to use more thresholds before your 2nd Rapid fire.
+
+Video goes here 
+
+
+
+
+
+
+
+
+
+
